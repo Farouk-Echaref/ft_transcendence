@@ -1,4 +1,22 @@
-# Transcendence
+# ft_transcendence
+
+## Introduction
+
+"ft_transcendence" is a Full Stack Web Application that involves the creation of a classic Pong Game, with additional features
+including 2FA (Two-Factor Authentication) and a user interface that encompasses player information,
+ranking, and scoring. The application also includes a chat interface that supports group chats with
+defined roles and one-on-one chats. The main objective of the application is the game itself, which
+comprises two essential components: the Matchmaking System (based on the ELO Algorithm commonly
+used in online gaming) and the gameplay, designed to faithfully replicate the original Pong game.
+Technology stack is below (I mainly worked on the backend and anything related to it):
++ Next.js for a responsive front-end
++ NestJS for the backend
++ PostgreSQL for database management
++ Prisma for ORM
++ Socket.IO for real-time features
++ TailwindCSS for an elegant design
++ Docker for containerization
+
 ## Quick Start
 
 ### 1. Setup dependencies
