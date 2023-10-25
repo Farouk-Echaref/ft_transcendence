@@ -21,10 +21,16 @@ Technology stack is below (I mainly worked on the backend and anything related t
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [Preview](#preview)
 - [How To Use](#how-to-use)
 - [Development and Testing](#development-and-testing)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+## Preview
+
++ The Application in action: 
 
 ## Getting Started
 
