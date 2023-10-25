@@ -17,7 +17,23 @@ Technology stack is below (I mainly worked on the backend and anything related t
 + TailwindCSS for an elegant design
 + Docker for containerization
 
-## Quick Start
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [How To Use](#how-to-use)
+- [Development and Testing](#development-and-testing)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+1. Clone this repository to your local machine:
+
+   ```shell
+   https://github.com/Farouk-Echaref/transcendence
+
+## How To Use
 
 ### 1. Setup dependencies
 
