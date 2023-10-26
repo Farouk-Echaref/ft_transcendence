@@ -32,6 +32,10 @@ Technology stack is below (I mainly worked on the backend and anything related t
 
 + The Application in action: 
 
+
+https://github.com/Farouk-Echaref/ft_transcendence/assets/66710845/15f9b306-3767-41c1-8039-8d993477cacd
+
+
 ## Getting Started
 
 1. Clone this repository to your local machine:
