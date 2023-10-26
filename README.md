@@ -55,6 +55,7 @@ yarn
 ```bash
 # run the application through docker containers (frontend, backend, postgresql and redis)
 docker-compose up --build -d
+```
 
 ## Contributing
 
